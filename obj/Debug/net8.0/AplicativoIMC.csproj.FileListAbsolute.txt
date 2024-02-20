@@ -12,3 +12,4 @@ C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\ne
 C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.pdb
 C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.genruntimeconfig.cache
 C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\ref\AplicativoIMC.dll
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.sourcelink.json

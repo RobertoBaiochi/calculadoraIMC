@@ -29,36 +29,43 @@ namespace AplicativoIMC
 
             imc = CalcularIMC(pessoa.altura, pessoa.peso);
 
-            if (imc < 16)
-            {
-                Console.WriteLine("Subpeso Severo");
-            }
-            else if(imc <= 19.9)
-            {
-                Console.WriteLine("Subpeso");
-            }
-            else if(imc <= 24.9)
-            {
-                Console.WriteLine("Normal");
-            }
-            else if(imc <= 29.9)
-            {
-                Console.WriteLine("Sobrepeso");
-            }
-            else if(imc <= 39.9)
-            {
-                Console.WriteLine("Obeso");
-            }
-            else
-            {
-                Console.WriteLine("Obeso Mórbido");
-            }
+            Console.WriteLine(Mensagem(imc));
 
         }
 
         static double CalcularIMC(double altura, double peso)
         {
-            return peso / Math.Pow(altura, 2);
+            double result = peso / Math.Pow(altura, 2);
+
+            return result;
+        }
+
+        static string Mensagem(double imc)
+        {
+            if (imc < 16)
+            {
+                return "Subpeso Severo";
+            }
+            else if (imc <= 19.9)
+            {
+                return "Subpeso";
+            }
+            else if (imc <= 24.9)
+            {
+                return "Normal";
+            }
+            else if (imc <= 29.9)
+            {
+                return "Sobrepeso";
+            }
+            else if (imc <= 39.9)
+            {
+                return "Obeso";
+            }
+            else
+            {
+                return "Obeso Mórbido";
+            }
         }
     }
 }
