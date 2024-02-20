@@ -1,0 +1,14 @@
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\bin\Debug\net8.0\AplicativoIMC.exe
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\bin\Debug\net8.0\AplicativoIMC.deps.json
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\bin\Debug\net8.0\AplicativoIMC.runtimeconfig.json
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\bin\Debug\net8.0\AplicativoIMC.dll
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\bin\Debug\net8.0\AplicativoIMC.pdb
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.dll
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\refint\AplicativoIMC.dll
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.pdb
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\AplicativoIMC.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Documentos\CURSOS\C#\Projetos\AplicativoIMC\obj\Debug\net8.0\ref\AplicativoIMC.dll
